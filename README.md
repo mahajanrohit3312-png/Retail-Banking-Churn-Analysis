@@ -58,7 +58,7 @@ ORDER BY balance DESC;
 
 ---
 
-## 📈 Analytical Phase 3: Customer Engagement Analysis
+## Analytical Phase 3: Customer Engagement Analysis
 I cross-referenced product ownership (`HasCrCard`) with active membership (`IsActiveMember`) to uncover hidden structural loyalty drivers.
 
 ### SQL Query:
