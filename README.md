@@ -6,6 +6,9 @@ This project bridges 5 years of BPO customer support team leadership with retail
 ---
 
 ## Analytical Phase 1: Operational Baseline Analysis
+
+![Operational Baseline Chart](Churn_Chart.jpeg)
+
 I executed an exploratory analysis to evaluate if ticket volume scales linearly with customer churn rates. 
 
 ### SQL Query:
